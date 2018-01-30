@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "spfx-design-problems",
+    "libraryId": "38fa6631-5269-4262-b258-1ef33d8a6699",
+    "environment": "spo"
+  }
+}
