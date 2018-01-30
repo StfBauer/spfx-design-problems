@@ -16,10 +16,13 @@
 
   .column {
     @include ms-Grid-col;
+    // Media queries and grid for large displays
     @include ms-lg10;
     @include ms-lgPush1;
+    // Media queries and grid for xtra large displays
     @include ms-xl8;
     @include ms-xlPush2;
+
     background-color: black;
   }
 
